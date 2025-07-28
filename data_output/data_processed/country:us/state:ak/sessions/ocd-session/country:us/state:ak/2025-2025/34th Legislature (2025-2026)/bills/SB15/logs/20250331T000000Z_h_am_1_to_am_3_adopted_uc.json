@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) AM 1 TO AM 3 ADOPTED UC",
+    "date": "2025-03-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB15"
+}

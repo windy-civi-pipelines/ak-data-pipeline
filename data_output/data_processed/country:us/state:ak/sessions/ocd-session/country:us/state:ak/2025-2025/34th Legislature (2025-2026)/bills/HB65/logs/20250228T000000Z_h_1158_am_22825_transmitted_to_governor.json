@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) 11:58 A.M. 2/28/25 Transmitted to Governor",
+    "date": "2025-02-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB65"
+}

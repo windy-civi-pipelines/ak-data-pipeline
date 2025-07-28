@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) 3:50 P.M. 5/15/25 Transmitted to Governor",
+    "date": "2025-05-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB47"
+}

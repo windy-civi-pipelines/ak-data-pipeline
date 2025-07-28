@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) AM NO 11 OFFERED AND WITHDRAWN",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB57"
+}

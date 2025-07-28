@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) <Bill Hearing Canceled> -- Delayed to 5 min. Following Session --",
+    "date": "2025-05-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB198"
+}

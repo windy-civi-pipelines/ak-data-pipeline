@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) READ THE THIRD TIME CSSJR 12(TRA)",
+    "date": "2025-05-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR12"
+}

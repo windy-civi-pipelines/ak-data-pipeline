@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) L&C, HSS",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB4"
+}

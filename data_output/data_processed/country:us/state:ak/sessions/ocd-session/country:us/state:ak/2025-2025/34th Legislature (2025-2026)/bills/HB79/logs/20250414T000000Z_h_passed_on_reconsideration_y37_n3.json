@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) PASSED ON RECONSIDERATION Y37 N3",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB79"
+}

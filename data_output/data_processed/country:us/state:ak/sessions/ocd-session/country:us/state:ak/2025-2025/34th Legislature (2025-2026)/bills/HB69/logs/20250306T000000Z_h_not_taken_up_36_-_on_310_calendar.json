@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) NOT TAKEN UP 3/6 - ON 3/10 CALENDAR",
+    "date": "2025-03-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB69"
+}

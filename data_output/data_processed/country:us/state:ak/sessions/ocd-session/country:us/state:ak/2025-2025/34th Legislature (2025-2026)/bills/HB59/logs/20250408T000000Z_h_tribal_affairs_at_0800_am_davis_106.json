@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) TRIBAL AFFAIRS at 08:00 AM DAVIS 106",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB59"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) DISCHARGE FROM RLS FAILED Y6 N14",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR14"
+}

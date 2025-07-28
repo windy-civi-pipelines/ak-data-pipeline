@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) <Bill Hearing Canceled>",
+    "date": "2025-03-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB74"
+}

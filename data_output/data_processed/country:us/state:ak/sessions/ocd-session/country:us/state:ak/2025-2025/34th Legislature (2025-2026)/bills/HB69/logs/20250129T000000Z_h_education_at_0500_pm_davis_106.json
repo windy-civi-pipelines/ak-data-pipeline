@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) EDUCATION at 05:00 PM DAVIS 106",
+    "date": "2025-01-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB69"
+}

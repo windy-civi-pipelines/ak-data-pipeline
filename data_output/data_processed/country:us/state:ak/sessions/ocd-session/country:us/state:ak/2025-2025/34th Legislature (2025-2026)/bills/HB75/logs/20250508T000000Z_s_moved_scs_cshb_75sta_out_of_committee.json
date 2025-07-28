@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) Moved SCS CSHB 75(STA) Out of Committee",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB75"
+}

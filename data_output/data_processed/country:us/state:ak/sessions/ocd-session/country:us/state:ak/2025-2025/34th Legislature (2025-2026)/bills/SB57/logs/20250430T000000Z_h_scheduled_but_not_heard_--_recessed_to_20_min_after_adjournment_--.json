@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) Scheduled but Not Heard -- Recessed to 20 min, after adjournment --",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB57"
+}

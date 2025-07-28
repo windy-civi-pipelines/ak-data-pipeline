@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) FAILED CONCUR (S) AM Y11 N27 E2",
+    "date": "2025-05-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB53"
+}

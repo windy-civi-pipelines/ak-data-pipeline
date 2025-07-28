@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) FINANCE at 11:00 AM ADAMS 519",
+    "date": "2025-03-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB53"
+}

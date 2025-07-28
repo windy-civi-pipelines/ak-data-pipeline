@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) AM NO 8 FAILED Y6 N14",
+    "date": "2025-04-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB57"
+}

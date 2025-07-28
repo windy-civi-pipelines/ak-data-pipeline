@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) EDC RPT CS(EDC) 7DP",
+    "date": "2025-03-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB57"
+}

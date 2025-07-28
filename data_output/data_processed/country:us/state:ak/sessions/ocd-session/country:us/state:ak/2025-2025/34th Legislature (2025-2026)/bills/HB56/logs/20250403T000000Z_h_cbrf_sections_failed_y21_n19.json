@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) CBRF SECTION(S) FAILED Y21 N19",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB56"
+}

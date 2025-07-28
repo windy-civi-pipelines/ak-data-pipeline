@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) CONCUR MESSAGE READ AND HELD",
+    "date": "2025-05-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB55"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) VERSION: CSHB 56(FIN) AM(BRF SUP MAJ FLD)",
+    "date": "2025-04-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB56"
+}

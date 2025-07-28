@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) LABOR & COMMERCE at 09:15 AM GRUENBERG 120",
+    "date": "2025-01-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB57"
+}

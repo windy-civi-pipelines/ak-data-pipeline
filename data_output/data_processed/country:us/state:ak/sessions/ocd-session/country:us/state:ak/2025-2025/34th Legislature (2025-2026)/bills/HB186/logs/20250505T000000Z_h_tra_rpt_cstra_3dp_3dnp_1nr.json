@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) TRA RPT CS(TRA) 3DP 3DNP 1NR",
+    "date": "2025-05-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB186"
+}

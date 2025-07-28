@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) RES RPT 2NR 3DP 2DNP",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSCR1"
+}

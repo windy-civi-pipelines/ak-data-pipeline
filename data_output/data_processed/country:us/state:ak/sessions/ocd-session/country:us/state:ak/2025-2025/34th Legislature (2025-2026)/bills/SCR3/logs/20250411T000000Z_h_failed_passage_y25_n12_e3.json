@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) FAILED PASSAGE Y25 N12 E3",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR3"
+}

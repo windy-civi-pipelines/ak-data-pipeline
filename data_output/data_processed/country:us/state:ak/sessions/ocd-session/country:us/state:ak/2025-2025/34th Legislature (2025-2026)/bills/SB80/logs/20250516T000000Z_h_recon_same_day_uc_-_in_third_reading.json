@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) RECON SAME DAY UC - IN THIRD READING",
+    "date": "2025-05-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB80"
+}

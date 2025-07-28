@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) FIN RPT CS(FIN) NEW TITLE 6DP 3DNP 2AM",
+    "date": "2025-05-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB78"
+}

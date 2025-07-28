@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) LABOR & COMMERCE at 01:30 PM BELTZ 105 (TSBldg)",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB4"
+}

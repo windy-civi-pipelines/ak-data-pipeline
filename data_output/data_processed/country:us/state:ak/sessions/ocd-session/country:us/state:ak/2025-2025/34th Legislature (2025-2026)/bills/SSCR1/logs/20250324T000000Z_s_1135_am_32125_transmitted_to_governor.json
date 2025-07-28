@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) 11:35 A.M. 3/21/25 Transmitted to Governor",
+    "date": "2025-03-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SSCR1"
+}

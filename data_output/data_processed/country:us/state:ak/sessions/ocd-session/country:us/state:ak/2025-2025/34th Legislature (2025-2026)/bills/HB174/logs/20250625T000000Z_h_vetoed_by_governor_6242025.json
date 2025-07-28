@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) VETOED BY GOVERNOR 6/24/2025",
+    "date": "2025-06-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB174"
+}

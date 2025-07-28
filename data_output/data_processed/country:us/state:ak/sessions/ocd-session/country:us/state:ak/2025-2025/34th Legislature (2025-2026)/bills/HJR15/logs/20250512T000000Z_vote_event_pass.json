@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "(H) CONCUR AM OF (S) Y35 N5 #1159",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "e896f89e-6bd6-11f0-b877-b6f2bba45fa4",
+  "bill_action": null,
+  "bill_identifier": "HJR15",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 35
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HJR15&Page=01159#1159",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "e897de08-6bd6-11f0-b877-b6f2bba45fa4"
+}

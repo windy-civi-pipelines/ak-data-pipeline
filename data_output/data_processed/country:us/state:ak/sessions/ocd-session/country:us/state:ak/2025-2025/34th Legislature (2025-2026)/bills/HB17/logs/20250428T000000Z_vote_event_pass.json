@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y40 #937",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "882ba5d6-6bd6-11f0-b877-b6f2bba45fa4",
+  "bill_action": null,
+  "bill_identifier": "HB17",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 40
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB17&Page=00937#0937",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "882c00da-6bd6-11f0-b877-b6f2bba45fa4"
+}

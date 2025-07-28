@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) HEALTH & SOCIAL SERVICES at 03:30 PM BUTROVICH 205",
+    "date": "2025-04-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB147"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) TRANSPORTATION at 01:30 PM BARNES 124",
+    "date": "2025-03-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB47"
+}

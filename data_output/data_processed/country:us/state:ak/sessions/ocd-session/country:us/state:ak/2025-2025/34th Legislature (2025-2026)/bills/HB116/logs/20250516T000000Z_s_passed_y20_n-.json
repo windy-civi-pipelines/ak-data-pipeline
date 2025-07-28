@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) PASSED Y20 N-",
+    "date": "2025-05-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB116"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) VERSION: CSHB 78(FIN) AM(EFD FLD)",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB78"
+}

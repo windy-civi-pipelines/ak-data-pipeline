@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "(H) CBRF SECTION(S) FAILED Y22 N18 #1353",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-20",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "9a62fb5a-6bd6-11f0-b877-b6f2bba45fa4",
+  "bill_action": null,
+  "bill_identifier": "HB53",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 18
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB53&Page=01353#1353",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "9a70f32c-6bd6-11f0-b877-b6f2bba45fa4"
+}

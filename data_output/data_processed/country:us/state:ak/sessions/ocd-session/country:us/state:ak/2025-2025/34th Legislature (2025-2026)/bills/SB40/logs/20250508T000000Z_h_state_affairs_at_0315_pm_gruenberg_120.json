@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) STATE AFFAIRS at 03:15 PM GRUENBERG 120",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB40"
+}

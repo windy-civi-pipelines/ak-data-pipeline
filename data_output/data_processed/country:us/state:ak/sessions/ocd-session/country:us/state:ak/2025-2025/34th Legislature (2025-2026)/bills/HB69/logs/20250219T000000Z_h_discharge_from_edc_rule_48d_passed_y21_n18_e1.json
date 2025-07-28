@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) DISCHARGE FROM EDC, RULE 48(D), PASSED Y21 N18 E1",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB69"
+}

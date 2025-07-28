@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y26 N14 #1047",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "1b5c3f0a-6bd7-11f0-b877-b6f2bba45fa4",
+  "bill_action": null,
+  "bill_identifier": "SB113",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 26
+    },
+    {
+      "option": "no",
+      "value": 14
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB113&Page=01047#1047",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "1b5d05d4-6bd7-11f0-b877-b6f2bba45fa4"
+}

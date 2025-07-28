@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) AM 1 TO AM 2 FAILED Y17 N22 A1",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB57"
+}

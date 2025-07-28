@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "(H) RESCIND ACTION TO DISCHARGE FAILED Y19 N20 E1 #215",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-19",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "a3906da2-6bd6-11f0-b877-b6f2bba45fa4",
+  "bill_action": null,
+  "bill_identifier": "HB69",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 19
+    },
+    {
+      "option": "no",
+      "value": 20
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB69&Page=00215#0215",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "a39126fc-6bd6-11f0-b877-b6f2bba45fa4"
+}

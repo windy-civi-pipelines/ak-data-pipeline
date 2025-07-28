@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) HEALTH & SOCIAL SERVICES at 03:15 PM DAVIS 106",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB141"
+}

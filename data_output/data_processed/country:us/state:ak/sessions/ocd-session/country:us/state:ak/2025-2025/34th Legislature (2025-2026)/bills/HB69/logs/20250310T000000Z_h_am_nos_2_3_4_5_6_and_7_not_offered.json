@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) AM NOS 2, 3, 4, 5, 6, AND 7 NOT OFFERED",
+    "date": "2025-03-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB69"
+}

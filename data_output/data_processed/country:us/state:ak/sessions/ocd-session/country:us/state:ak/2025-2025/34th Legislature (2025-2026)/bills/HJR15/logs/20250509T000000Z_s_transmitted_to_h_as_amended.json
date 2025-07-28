@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) TRANSMITTED TO (H) AS AMENDED",
+    "date": "2025-05-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR15"
+}

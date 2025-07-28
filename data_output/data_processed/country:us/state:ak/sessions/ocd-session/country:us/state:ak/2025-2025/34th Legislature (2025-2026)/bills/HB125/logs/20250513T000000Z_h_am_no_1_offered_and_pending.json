@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) AM NO 1 OFFERED AND PENDING",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB125"
+}

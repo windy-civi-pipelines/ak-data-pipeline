@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 1 ADOPTED Y36 N1 E1 A2 #\r\n                                                    1264",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "41d94c18-6bd7-11f0-b877-b6f2bba45fa4",
+  "bill_action": null,
+  "bill_identifier": "SJR15",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 36
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SJR15&Page=01264#AM1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "41d9e182-6bd7-11f0-b877-b6f2bba45fa4"
+}

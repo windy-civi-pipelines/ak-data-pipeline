@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) LAW W/O GOV SIGNATURE 6/6 CH 6 SLA 25",
+    "date": "2025-06-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB47"
+}

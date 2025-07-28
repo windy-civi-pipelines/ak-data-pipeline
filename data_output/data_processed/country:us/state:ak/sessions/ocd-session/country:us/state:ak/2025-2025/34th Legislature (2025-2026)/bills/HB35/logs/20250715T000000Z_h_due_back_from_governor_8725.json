@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) DUE BACK FROM GOVERNOR 8/7/25",
+    "date": "2025-07-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB35"
+}

@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 2 ADOPTED Y19 N18 E3 #\r\n                                                    684",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "9da4582c-6bd6-11f0-b877-b6f2bba45fa4",
+  "bill_action": null,
+  "bill_identifier": "HB57",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 19
+    },
+    {
+      "option": "no",
+      "value": 18
+    },
+    {
+      "option": "other",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB57&Page=00684#AM2",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "_id": "9da4ceba-6bd6-11f0-b877-b6f2bba45fa4"
+}

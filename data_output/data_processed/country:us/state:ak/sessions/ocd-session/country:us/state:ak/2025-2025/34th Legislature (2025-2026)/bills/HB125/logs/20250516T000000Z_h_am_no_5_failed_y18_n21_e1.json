@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) AM NO 5 FAILED Y18 N21 E1",
+    "date": "2025-05-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB125"
+}

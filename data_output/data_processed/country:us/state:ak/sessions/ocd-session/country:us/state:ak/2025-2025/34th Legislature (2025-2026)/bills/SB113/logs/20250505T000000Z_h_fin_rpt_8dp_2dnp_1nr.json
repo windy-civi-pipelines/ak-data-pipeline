@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) FIN RPT 8DP 2DNP 1NR",
+    "date": "2025-05-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB113"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) FN1: ZERO(S.RES)",
+    "date": "2025-02-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSCR1"
+}

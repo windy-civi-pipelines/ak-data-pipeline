@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) CC REPORT: CCS HB 53 RECEIVED 5/18 9:21 P.M.",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB53"
+}

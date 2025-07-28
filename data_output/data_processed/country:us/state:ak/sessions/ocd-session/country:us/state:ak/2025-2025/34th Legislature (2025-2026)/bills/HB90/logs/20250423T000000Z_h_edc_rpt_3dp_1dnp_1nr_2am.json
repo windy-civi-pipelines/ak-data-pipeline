@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) EDC RPT 3DP 1DNP 1NR 2AM",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB90"
+}

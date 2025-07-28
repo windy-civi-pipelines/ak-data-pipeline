@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) MOTION TO ADJOURN FAILED Y16 N21 E3",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB53"
+}

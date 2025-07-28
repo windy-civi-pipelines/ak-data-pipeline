@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) LETTER OF INTENT WITH STA REPORT",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB75"
+}

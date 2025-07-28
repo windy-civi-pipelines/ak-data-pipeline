@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) HELD IN SECOND READING TO 4/16 CALENDAR",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB55"
+}

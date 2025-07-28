@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) LAW W/O GOV SIGNATURE 7/16 CH 20 SLA 25",
+    "date": "2025-07-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB60"
+}
