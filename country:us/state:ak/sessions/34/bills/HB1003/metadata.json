@@ -1,0 +1,155 @@
+{
+  "legislative_session": "34",
+  "identifier": "HB1003",
+  "title": "An Act relating to tax credits for contributions to public schools and programs operated by tribal entities or tribally empowered Alaska Native organizations through a compact with the state; relating to tax credits for contributions to state-funded literacy programs; relating to the insurance tax education credit, the income tax education credit, the oil or gas producer education credit, the property tax education credit, the mining business education credit, the fisheries business education credit, and the fisheries resource landing tax education credit; and providing for an effective date.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "ALASKA NATIVES",
+    "BUSINESS",
+    "CREDIT",
+    "EDUCATION",
+    "FISH & GAME (FISH)",
+    "FUNDS",
+    "INSURANCE",
+    "MINING",
+    "OIL & GAS",
+    "PROPERTY",
+    "PUBLIC FINANCE",
+    "REVENUE",
+    "SALARIES & ALLOWANCES",
+    "SCHOOLS",
+    "TAXATION"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(H) READ THE FIRST TIME - REFERRALS",
+      "date": "2025-08-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(H) FIN",
+      "date": "2025-08-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(H) FN1: ZERO(EED)",
+      "date": "2025-08-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(H) FN2: INDETERMINATE(REV)",
+      "date": "2025-08-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(H) FN3: ZERO(EED/FUND CAP)",
+      "date": "2025-08-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(H) GOVERNOR'S TRANSMITTAL LETTER",
+      "date": "2025-08-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(H) REFERRED TO FINANCE",
+      "date": "2025-08-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "House Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"lower\", \"name\": \"House Rules\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 1003",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB1003A",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/HB1003A.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB1003",
+      "note": ""
+    },
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB1003#tab5_4",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ak/government",
+    "name": "Alaska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ak"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T17:44:31Z"
+  }
+}

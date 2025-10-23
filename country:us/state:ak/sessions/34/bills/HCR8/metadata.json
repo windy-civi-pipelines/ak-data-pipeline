@@ -1,0 +1,102 @@
+{
+  "legislative_session": "34",
+  "identifier": "HCR8",
+  "title": "Proclaiming October 2025 as Jewish Heritage Month.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [
+    "PROCLAMATIONS",
+    "RELIGION"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(H) READ THE FIRST TIME - REFERRALS",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) STA",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) REFERRED TO STATE AFFAIRS",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Allard",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Allard\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HCR 8",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HCR008A",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/HCR008A.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HCR8",
+      "note": ""
+    },
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HCR8#tab5_4",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ak/government",
+    "name": "Alaska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ak"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T17:44:30Z"
+  }
+}

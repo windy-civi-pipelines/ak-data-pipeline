@@ -1,0 +1,363 @@
+{
+  "legislative_session": "34",
+  "identifier": "HB152",
+  "title": "An Act establishing an education tax on the income of individuals, partners, shareholders in S corporations, trusts, and estates; repealing tax credits applied against the tax on individuals under the Alaska Net Income Tax Act; and providing for an effective date.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BUSINESS",
+    "CORPORATIONS",
+    "EDUCATION",
+    "ESTATES",
+    "FUNDS",
+    "PERMANENT FUND",
+    "REVENUE",
+    "TAXATION",
+    "TRUSTS",
+    "WAGES"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(H) READ THE FIRST TIME - REFERRALS",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) STA, FIN",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) REFERRED TO STATE AFFAIRS",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) COSPONSOR(S): MINA",
+      "date": "2025-04-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) STATE AFFAIRS at 03:15 PM GRUENBERG 120",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) Heard & Held",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) COSPONSOR(S): HIMSCHOOT",
+      "date": "2025-04-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) STATE AFFAIRS at 03:15 PM GRUENBERG 120",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) Heard & Held",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Galvin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Galvin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mina",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mina\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Himschoot",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Himschoot\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 152",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0152A",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/HB0152A.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Sponsor Statement",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/get_documents.asp?session=34&docid=6053",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Written Testimony Rec'd 5-2-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6911",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Written Testimony Rec'd 4-30-25 Part 2",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6812",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Written Testimony Rec'd 4-30-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6759",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB152 Backup State & Local Tax Map",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6303",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Galvin Presentation 4.23.25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6256",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Research ITEP Alaska Fiscal Solutions PPT 4.7.2025",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6064",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Research ITEP_Alaska-Distribution-Analysis 4.7.2025",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6063",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Research Fiscal Policy Working Group Report 4.7.2025",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6062",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Research Story of Taxes Alaska 4.7.2025",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6061",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Research Spring 2025 Revenue Forecast",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6060",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Written Testimony Rec'd 4-22-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6059",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Fiscal Note DOR-TAX-4-18-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6056",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Sectional Analysis version A 4.7.25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6055",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Ver A",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6054",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 152 Sponsor Statement Version A",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6053",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB152",
+      "note": ""
+    },
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB152#tab5_4",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ak/government",
+    "name": "Alaska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ak"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T17:44:30Z"
+  }
+}

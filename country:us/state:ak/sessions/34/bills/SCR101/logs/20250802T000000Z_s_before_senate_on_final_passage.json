@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) BEFORE SENATE ON FINAL PASSAGE",
+    "date": "2025-08-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SCR101"
+}

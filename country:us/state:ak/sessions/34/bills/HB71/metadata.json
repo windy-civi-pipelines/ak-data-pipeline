@@ -1,0 +1,236 @@
+{
+  "legislative_session": "34",
+  "identifier": "HB71",
+  "title": "An Act relating to obstruction; and providing for an effective date.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "AIRPORTS",
+    "CIVIL PROCEDURE",
+    "CRIMES",
+    "CRIMINAL PROCEDURE",
+    "HIGHWAYS",
+    "LIABILITY",
+    "TRANSPORTATION",
+    "WATER"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(H) READ THE FIRST TIME - REFERRALS",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) TRA, JUD",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) FN1: ZERO(DPS)",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) GOVERNOR'S TRANSMITTAL LETTER",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) REFERRED TO TRANSPORTATION",
+      "date": "2025-01-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) TRANSPORTATION at 01:00 PM BARNES 124",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) Heard & Held",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HTRA)",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "House Rules",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"lower\", \"name\": \"House Rules\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 71",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0071A",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/HB0071A.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "03.06.25 HB 71 Presentation",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=2540",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 71 Sectional Analysis version A",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=2097",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0071A",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=2096",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0071-1-2-012725-DPS-N",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=2095",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 71 Transmittal Letter",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=2094",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 71 Highlights version A",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=2093",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 71 Hearing Request verson A",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=2092",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB71",
+      "note": ""
+    },
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB71#tab5_4",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ak/government",
+    "name": "Alaska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ak"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T17:44:30Z"
+  }
+}

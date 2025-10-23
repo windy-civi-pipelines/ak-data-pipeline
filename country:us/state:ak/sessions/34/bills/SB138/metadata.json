@@ -1,0 +1,438 @@
+{
+  "legislative_session": "34",
+  "identifier": "SB138",
+  "title": "An Act relating to vehicle rental taxes; relating to the issuance of subpoenas related to tax records; and providing for an effective date.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BUSINESS",
+    "COURTS",
+    "MOTOR VEHICLES",
+    "REVENUE",
+    "SUBPOENAS",
+    "TAXATION"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(S) READ THE FIRST TIME - REFERRALS",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) TRA, FIN",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) TRANSPORTATION at 01:30 PM BUTROVICH 205",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) Heard & Held",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) Minutes (STRA)",
+      "date": "2025-04-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) TRANSPORTATION at 01:30 PM BUTROVICH 205",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) Moved CSSB 138(TRA) Out of Committee",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) Minutes (STRA)",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) TRA RPT CS 4NR SAME TITLE",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) NR: BJORKMAN, SHOWER, TOBIN, STEDMAN",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) FN1: INDETERMINATE(REV)",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) REFERRED TO FINANCE",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) FINANCE at 09:00 AM SENATE FINANCE 532",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    },
+    {
+      "description": "(S) Heard & Held",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:31Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Claman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Claman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB 138",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=SB0138A",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/SB0138A.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CSSB 138(TRA)",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=SB0138B",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/SB0138B.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Sponsor Statement",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/get_documents.asp?session=34&docid=6907",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 DOR Response to SFIN questions on SB 138 05.08.2025",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=7540",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Sponsor Statement v. N 2025.4.11",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6907",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Sectional Analysis Version N 2025.4.14",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6906",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Supporting Document - Anchorage AO 2020-055",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6905",
+          "media_type": "pdf"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=4670",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Supporting Document - Anchorage Municipality Vehicle Rental Tax Revenue",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6904",
+          "media_type": "pdf"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=5221",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Supporting Document - Testimony received as of 4.16.2025",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6903",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Supporting Document - Legal Opinion on Statute of Limitations 3.17.2025",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6902",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 - Explanation of Changes Version A to Version N 4.8.2025",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6901",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Legal Opinion on Statute of Limitations",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=5302",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 - Explanation of Changes Version A to Version N",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=5220",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Ver N",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=5219",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Collections of vehicle rental taxes",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=5187",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Sectional Analysis Version A 3.25.2025",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=4671",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Supporting document - SSPCAB Letter",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=4669",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB138-DOR-TAX-3-28-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=4668",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Sponsor Statement Version A 3.25.2025",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=4667",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB 138 Version A",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=4666",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB138",
+      "note": ""
+    },
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB138#tab5_4",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ak/government",
+    "name": "Alaska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ak"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T17:44:31Z"
+  }
+}

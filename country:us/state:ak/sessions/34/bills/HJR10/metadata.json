@@ -1,0 +1,610 @@
+{
+  "legislative_session": "34",
+  "identifier": "HJR10",
+  "title": "Proposing amendments to the Constitution of the State of Alaska relating to the Alaska permanent fund and to appropriations from the Alaska permanent fund.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [
+    "APPROPRIATIONS",
+    "BUDGET",
+    "CONSTITUTIONAL AMENDMENTS",
+    "FUNDS",
+    "INVESTMENTS",
+    "PERMANENT FUND",
+    "REVENUE",
+    "REVENUE SHARING"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(H) READ THE FIRST TIME - REFERRALS",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) STA, JUD, FIN",
+      "date": "2025-02-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) STATE AFFAIRS at 03:15 PM GRUENBERG 120",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) <Bill Hearing Canceled> -- MEETING CANCELED --",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) STATE AFFAIRS at 03:15 PM GRUENBERG 120",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) Heard & Held",
+      "date": "2025-04-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) STATE AFFAIRS at 03:15 PM GRUENBERG 120",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) Heard & Held",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) STATE AFFAIRS at 03:15 PM GRUENBERG 120",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) Moved HJR 10 Out of Committee",
+      "date": "2025-05-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) STA RPT 4DP 3DNP",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) DP: HOLLAND, HIMSCHOOT, STORY, CARRICK",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) DNP: VANCE, MCCABE, MOORE",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) FN1: ZERO(GOV)",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) JUDICIARY at 01:00 PM GRUENBERG 120",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) Heard & Held",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HJUD)",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) COSPONSOR(S): HALL",
+      "date": "2025-05-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) FINANCE at 01:30 PM ADAMS 519",
+      "date": "2025-05-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) <Bill Hearing Canceled> -- Delayed to 1:55 pm --",
+      "date": "2025-05-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) JUDICIARY at 01:00 PM GRUENBERG 120",
+      "date": "2025-05-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) Moved HJR 10 Out of Committee -- Delayed to 5 min. Following Session --",
+      "date": "2025-05-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HJUD)",
+      "date": "2025-05-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) JUD RPT 4DP 2AM",
+      "date": "2025-05-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) DP: KOPP, EISCHEID, MINA, GRAY",
+      "date": "2025-05-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) AM: VANCE, UNDERWOOD",
+      "date": "2025-05-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) FN1: ZERO(GOV)",
+      "date": "2025-05-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) REFERRED TO FINANCE",
+      "date": "2025-05-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Schrage",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Schrage\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Fields",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Fields\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Hall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HJR 10",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HJR010A",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/HJR010A.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Sponsor Statement",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/get_documents.asp?session=34&docid=7092",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 Backup for Amendment A.3 to HJR 10",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=7588",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 Amendment 2 Rep. Vance",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=7523",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 Amendment 1 Rep. Vance",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=7522",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 Supporting Document APFC presentation UPDATED",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=7093",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 - Sponsor Statement 5.2.25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=7092",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10- Memo",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6830",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 - Sectional Analysis",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6828",
+          "media_type": "pdf"
+        },
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3598",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 - Presentation",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6827",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 - Fiscal Note Governor",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6826",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 - Invited Testimony",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6825",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 Version A",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6824",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 Written Testimony Rec'd 4-30-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6810",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 Amendments HSTA 5-1-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6809",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 Presentation APFC 4-24-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6257",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 - Sponsor Statement 4-22-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6124",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 Presentation APFC 3-20-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3617",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 Presentation 3-20-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3600",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 Fiscal Note OOG-DOE-3-17-25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3599",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR010A",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3597",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HJR 10 - Sponsor Statement",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3596",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR10",
+      "note": ""
+    },
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HJR10#tab5_4",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ak/government",
+    "name": "Alaska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ak"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T17:44:30Z"
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "legislative_session": "34",
+  "identifier": "SB99",
+  "title": "An Act relating to private professional conservators; and providing for an effective date.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "BUSINESS",
+    "FINANCE",
+    "GUARDIANSHIP",
+    "LICENSING",
+    "OCCUPATIONS & PROFESSIONS"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(S) READ THE FIRST TIME - REFERRALS",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(S) L&C, FIN",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(S) REFERRED TO LABOR & COMMERCE",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(S) LABOR & COMMERCE at 01:30 PM BELTZ 105 (TSBldg)",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(S) Heard & Held",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(S) Minutes (SL&C)",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(S) LABOR & COMMERCE at 01:30 PM BELTZ 105 (TSBldg)",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(S) Heard & Held",
+      "date": "2025-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Myers",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Myers\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB 99",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=SB0099A",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/SB0099A.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Sponsor Statement",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/get_documents.asp?session=34&docid=3415",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 Public Testimony-Letter-Vivian Stiver 03.17.25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6886",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 Draft Proposed Amendment ver A.2",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6885",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 Public Testimony-Letter-AARP 04.03.25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=6884",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 Public Testimony-Letter-Virginia Farmier 03.10.25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3421",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 Fiscal Note-DCCED-CBPL 03.14.25",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3420",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 ver A",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3419",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 Supporting Documents-Research-State Comparison Table",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3418",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 Supporting Documents-Research-NCG Core Compentncies 2020",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3417",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 Supporting Documents-Research-NASBA-CPE Fields of Study",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3416",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 Sponsor Statement",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3415",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 Sectional Analysis",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3414",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB99 Supporting Documents-Research-Alaska and NGC Cost Breakdown",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=3413",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB99",
+      "note": ""
+    },
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB99#tab5_4",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ak/government",
+    "name": "Alaska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ak"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T17:44:30Z"
+  }
+}

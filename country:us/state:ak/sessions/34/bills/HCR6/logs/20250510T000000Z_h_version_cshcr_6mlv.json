@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) VERSION: CSHCR 6(MLV)",
+    "date": "2025-05-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR6"
+}

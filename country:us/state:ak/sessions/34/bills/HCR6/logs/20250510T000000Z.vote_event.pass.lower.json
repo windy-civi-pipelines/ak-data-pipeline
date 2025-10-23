@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y38 E2 #1128",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "4b9cfe80-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HCR6",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 38
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HCR6&Page=01128#1128",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

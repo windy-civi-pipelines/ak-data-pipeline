@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y39 E1 #969",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-30",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "c4d33eea-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SJR10",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 39
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SJR10&Page=00969#0969",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

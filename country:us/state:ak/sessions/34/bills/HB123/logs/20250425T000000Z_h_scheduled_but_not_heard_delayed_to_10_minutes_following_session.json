@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) Scheduled but Not Heard -- Delayed to 10 minutes Following Session --",
+    "date": "2025-04-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB123"
+}

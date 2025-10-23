@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y29 N10 A1 #1298",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "e84af1b6-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB27",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 29
+    },
+    {
+      "option": "no",
+      "value": 10
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB27&Page=01298#1298",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED ON RECONSIDERATION Y31 N8 E1 #100",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "4e34ca4c-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HJR4",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 31
+    },
+    {
+      "option": "no",
+      "value": 8
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HJR4&Page=00100#0100",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

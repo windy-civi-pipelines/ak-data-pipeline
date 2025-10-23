@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) EFFECTIVE DATE(S) FAILED Y25 N15",
+    "date": "2025-04-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB53"
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y36 E4 #269",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "8c7d0cba-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB87",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 36
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB87&Page=00269#0269",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

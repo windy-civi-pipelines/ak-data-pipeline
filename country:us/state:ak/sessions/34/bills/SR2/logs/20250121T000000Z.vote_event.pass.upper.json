@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED Y20 N- #10",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "cc1e2214-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SR2",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 20
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SR2&Page=00010#0010",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

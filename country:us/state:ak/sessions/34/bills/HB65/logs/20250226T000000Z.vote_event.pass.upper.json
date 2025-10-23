@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED Y18 N- E2 #364",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "ff2dec8a-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB65",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB65&Page=00364#0364",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

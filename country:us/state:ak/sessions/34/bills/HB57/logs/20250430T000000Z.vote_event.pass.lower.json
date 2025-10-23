@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) CONCUR AM OF (S) Y31 N8 E1 #951",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-30",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "fa3aa3da-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB57",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 31
+    },
+    {
+      "option": "no",
+      "value": 8
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB57&Page=00951#0951",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

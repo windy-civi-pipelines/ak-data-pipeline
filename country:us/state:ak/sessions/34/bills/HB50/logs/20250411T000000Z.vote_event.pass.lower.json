@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y35 N2 E3 #702",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "f410829a-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB50",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 35
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB50&Page=00702#0702",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

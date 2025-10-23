@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y38 N1 A1 #20",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "5a1421a0-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HR1",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 38
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HR1&Page=00020#0020",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

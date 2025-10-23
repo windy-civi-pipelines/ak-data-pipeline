@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) EFFECTIVE DATE(S) OF LAW 7/2/25",
+    "date": "2025-04-04",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB43"
+}

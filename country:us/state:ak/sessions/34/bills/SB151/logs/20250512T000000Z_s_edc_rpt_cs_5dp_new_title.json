@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) EDC RPT CS 5DP NEW TITLE",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB151"
+}

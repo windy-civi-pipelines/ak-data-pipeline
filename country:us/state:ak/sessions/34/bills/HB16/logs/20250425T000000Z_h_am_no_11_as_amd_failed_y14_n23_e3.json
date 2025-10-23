@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) AM NO 11 AS AMD FAILED Y14 N23 E3",
+    "date": "2025-04-25",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB16"
+}

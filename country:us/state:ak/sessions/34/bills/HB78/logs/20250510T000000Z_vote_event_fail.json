@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) DIVIDE THE AMENDMENT FAILED Y15 N23 E2 #1096",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-10",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "078cb154-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB78",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 15
+    },
+    {
+      "option": "no",
+      "value": 23
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB78&Page=01096#1096",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

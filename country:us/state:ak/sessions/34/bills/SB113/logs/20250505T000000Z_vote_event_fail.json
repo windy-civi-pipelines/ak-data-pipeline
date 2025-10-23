@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) MOTION TO TABLE BILL FAILED Y11 N29 #1020",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-05",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "997db838-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB113",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 29
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB113&Page=01020#1020",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

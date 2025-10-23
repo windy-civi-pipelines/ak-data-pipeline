@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) AM NO 37 FAILED Y18 N22",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB53"
+}

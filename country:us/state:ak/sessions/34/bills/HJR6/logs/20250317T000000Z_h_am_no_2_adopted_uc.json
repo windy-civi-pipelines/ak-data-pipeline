@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) AM NO 2 ADOPTED UC",
+    "date": "2025-03-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR6"
+}

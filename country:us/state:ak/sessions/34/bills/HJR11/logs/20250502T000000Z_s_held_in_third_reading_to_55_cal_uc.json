@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) HELD IN THIRD READING TO 5/5 CAL UC",
+    "date": "2025-05-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR11"
+}

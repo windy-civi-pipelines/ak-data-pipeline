@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) CONCUR MESSAGE TAKEN UP AND MOTION WITHDRAWN",
+    "date": "2025-04-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB57"
+}

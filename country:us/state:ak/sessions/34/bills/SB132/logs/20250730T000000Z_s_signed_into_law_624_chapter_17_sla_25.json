@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) Signed into law 6/24 CHAPTER 17 SLA 25",
+    "date": "2025-07-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB132"
+}

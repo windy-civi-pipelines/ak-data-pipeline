@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y28 N12 #1176",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "ebdef836-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB33",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 28
+    },
+    {
+      "option": "no",
+      "value": 12
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB33&Page=01176#1176",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,121 @@
+{
+  "legislative_session": "34",
+  "identifier": "HB215",
+  "title": "An Act extending the termination date of the State Board of Registration for Architects, Engineers, and Land Surveyors; relating to the State Board of Registration for Architects, Engineers, and Land Surveyors; relating to the practice of architecture, engineering, land surveyors, and landscape architecture; relating to scope of the certification requirements for architects, engineers, land surveyors, and landscape architects; relating to immunity for design professionals; relating to liens for labor or materials furnished; relating to the procurement of landscape architectural services; and providing for an effective date.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "APPOINTMENTS",
+    "BOARDS & COMMISSIONS",
+    "BUILDINGS",
+    "BUSINESS",
+    "CONSTRUCTION",
+    "CONSUMER AFFAIRS",
+    "CONTRACTORS",
+    "CONTRACTS",
+    "CORPORATIONS",
+    "EMPLOYMENT",
+    "FEES",
+    "LICENSING",
+    "LIENS",
+    "MUNICIPALITIES",
+    "OCCUPATIONS & PROFESSIONS",
+    "PERMITS",
+    "PLANNING",
+    "PROCUREMENTS",
+    "PROPERTY",
+    "REGULATIONS",
+    "SUNSET"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(H) READ THE FIRST TIME - REFERRALS",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) L&C, FIN",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    },
+    {
+      "description": "(H) REFERRED TO LABOR & COMMERCE",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-23T17:44:30Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Saddler",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Saddler\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 215",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/Bill/Text/34?Hsid=HB0215A",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://www.akleg.gov/PDF/34/Bills/HB0215A.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB215",
+      "note": ""
+    },
+    {
+      "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB215#tab5_4",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ak/government",
+    "name": "Alaska",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ak"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-23T17:44:30Z"
+  }
+}

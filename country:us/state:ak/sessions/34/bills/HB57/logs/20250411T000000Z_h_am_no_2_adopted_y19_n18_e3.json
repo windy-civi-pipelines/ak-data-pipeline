@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) AM NO 2 ADOPTED Y19 N18 E3",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB57"
+}

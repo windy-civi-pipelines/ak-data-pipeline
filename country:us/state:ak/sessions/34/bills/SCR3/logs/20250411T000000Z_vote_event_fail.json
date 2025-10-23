@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) FAILED PASSAGE Y25 N12 E3 #662",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-11",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "bdcefaa8-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SCR3",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 12
+    },
+    {
+      "option": "other",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SCR3&Page=00662#0662",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

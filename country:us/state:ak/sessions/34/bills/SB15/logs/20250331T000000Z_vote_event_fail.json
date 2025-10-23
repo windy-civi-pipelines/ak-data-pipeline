@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 3 AS AMD FAILED Y11 N25 E3 A1 #\r\n                                                    582",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-31",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "637b7efa-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB15",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 25
+    },
+    {
+      "option": "other",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB15&Page=00582#AM3",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

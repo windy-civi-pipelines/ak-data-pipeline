@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) L&C RPT SCS(STA) 4NR",
+    "date": "2025-05-17",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB121"
+}

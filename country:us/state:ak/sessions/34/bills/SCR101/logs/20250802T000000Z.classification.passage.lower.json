@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) PASSED Y21 N19",
+    "date": "2025-08-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR101"
+}

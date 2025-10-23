@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) DEADLINE FOR ALL AMS AT 12:00 P.M. TODAY Y21 N19",
+    "date": "2025-03-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB69"
+}

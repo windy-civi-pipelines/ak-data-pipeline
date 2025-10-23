@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y36 N3 E1 #952",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-30",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "be98bd34-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SCR5",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 36
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SCR5&Page=00952#0952",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

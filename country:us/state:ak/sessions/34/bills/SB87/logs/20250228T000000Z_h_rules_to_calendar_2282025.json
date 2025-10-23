@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) RULES TO CALENDAR 2/28/2025",
+    "date": "2025-02-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB87"
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) EFFECTIVE DATE(S) FAILED Y22 N18 #1178",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-13",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "7c412fac-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB57",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 18
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB57&Page=01178#1178",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

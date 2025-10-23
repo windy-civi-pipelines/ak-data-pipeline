@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) RECON SAME DAY UC - IN 3RD RDG",
+    "date": "2025-04-28",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB57"
+}

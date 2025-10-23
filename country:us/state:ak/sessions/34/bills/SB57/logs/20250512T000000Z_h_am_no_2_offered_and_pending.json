@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) AM NO 2 OFFERED AND PENDING",
+    "date": "2025-05-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB57"
+}

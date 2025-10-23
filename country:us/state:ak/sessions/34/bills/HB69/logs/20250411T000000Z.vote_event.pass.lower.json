@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) EFFECTIVE DATE(S) ADOPTED Y27 N10 E3 #661",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "01a942e8-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB69",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 27
+    },
+    {
+      "option": "no",
+      "value": 10
+    },
+    {
+      "option": "other",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB69&Page=00661#0661",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

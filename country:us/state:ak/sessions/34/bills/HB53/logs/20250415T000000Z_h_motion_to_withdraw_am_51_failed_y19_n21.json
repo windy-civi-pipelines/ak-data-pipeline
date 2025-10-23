@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) MOTION TO WITHDRAW AM 51 FAILED Y19 N21",
+    "date": "2025-04-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB53"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) FISCAL NOTE MEMO Transmitted to Governor 10/01/25",
+    "date": "2025-10-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB53"
+}

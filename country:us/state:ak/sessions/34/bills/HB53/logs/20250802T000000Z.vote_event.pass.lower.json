@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) GOVERNOR VETO OVERRIDDEN Y45 N14 E1 #1403",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-08-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "f6b7867e-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB53",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 45
+    },
+    {
+      "option": "no",
+      "value": 14
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB53&Page=01403#1403",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

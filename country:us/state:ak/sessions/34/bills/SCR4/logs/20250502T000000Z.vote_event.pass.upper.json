@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED Y16 N- E3 A1 #1095",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "be593a24-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SCR4",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SCR4&Page=01095#1095",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) MOTION TO RETURN TO EDC COMMITTEE, RULE 39(B), FAILED Y19 N21 #447",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-12",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "01a942e8-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB69",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 19
+    },
+    {
+      "option": "no",
+      "value": 21
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB69&Page=00447#0447",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

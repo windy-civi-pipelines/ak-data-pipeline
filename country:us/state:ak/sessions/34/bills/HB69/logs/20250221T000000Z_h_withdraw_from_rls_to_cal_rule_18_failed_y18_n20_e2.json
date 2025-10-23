@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) WITHDRAW FROM RLS TO CAL, RULE 18, FAILED Y18 N20 E2",
+    "date": "2025-02-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB69"
+}

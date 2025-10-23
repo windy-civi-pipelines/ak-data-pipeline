@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) HSS RPT HCS(HSS) 4DP 1NR",
+    "date": "2025-05-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB134"
+}

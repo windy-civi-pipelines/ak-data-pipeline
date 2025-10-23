@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED Y16 N4 #878",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-15",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "997db838-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB113",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB113&Page=00878#0878",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

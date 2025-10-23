@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) AM NO 2 ADOPTED Y17 N3 #\r\n                                                    1231",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "80c17140-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB64",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 17
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB64&Page=01231#AM2",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y33 N2 E5 #566",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "730d7774-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB43",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 33
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "other",
+      "value": 5
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB43&Page=00566#0566",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

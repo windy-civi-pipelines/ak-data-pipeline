@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y38 E2 #1078",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "c64cd588-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SJR12",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 38
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SJR12&Page=01078#1078",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

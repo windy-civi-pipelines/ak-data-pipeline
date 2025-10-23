@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) READ THE THIRD TIME CSHB 27(HSS) AND PENDING",
+    "date": "2025-05-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB27"
+}

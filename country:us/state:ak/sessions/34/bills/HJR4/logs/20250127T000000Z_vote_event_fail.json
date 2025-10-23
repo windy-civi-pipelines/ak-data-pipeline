@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 1 FAILED Y17 N21 E2 #\r\n                                                    84",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-01-27",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "4e34ca4c-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HJR4",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 17
+    },
+    {
+      "option": "no",
+      "value": 21
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HJR4&Page=00084#AM1",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

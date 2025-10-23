@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) FISHERIES at 10:00 AM GRUENBERG 120",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB129"
+}

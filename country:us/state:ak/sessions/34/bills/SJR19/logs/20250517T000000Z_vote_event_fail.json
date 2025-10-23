@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 1 AS AMD FAILED Y18 N21 E1 #\r\n                                                    1269",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-17",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "caa92334-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SJR19",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 21
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SJR19&Page=01269#AM1",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

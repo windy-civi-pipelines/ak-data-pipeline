@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) MOTION TO RETURN TO EDC COMMITTEE, RULE 39(B), FAILED Y19 N21",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB69"
+}

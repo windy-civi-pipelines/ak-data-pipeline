@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 2 AS AMD ADOPTED Y21 N17 E2 #\r\n                                                    1097",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "078cb154-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB78",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 21
+    },
+    {
+      "option": "no",
+      "value": 17
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB78&Page=01097#AM2",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y40 #1049",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "53ce7bf6-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HJR13",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 40
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HJR13&Page=01049#1049",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) CONCUR AM OF (S) Y34 N6 #1028",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "52eea2f6-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HJR11",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 34
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HJR11&Page=01028#1028",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

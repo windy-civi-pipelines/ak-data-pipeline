@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) AM 1 TO AM 1 ADOPTED Y12 N8 #1154",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "8af0fec4-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB83",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 8
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB83&Page=01154#1154",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

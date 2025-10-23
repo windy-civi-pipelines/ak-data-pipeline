@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED Y15 N5 #1258",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "5195ac1a-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HJR9",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 15
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HJR9&Page=01258#1258",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

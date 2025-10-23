@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) LABOR & COMMERCE at 03:15 PM BARNES 124",
+    "date": "2025-04-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB171"
+}

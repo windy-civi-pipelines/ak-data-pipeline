@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 1 FAILED Y18 N21 E1 #\r\n                                                    464",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-14",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "501dddee-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HJR6",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 21
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HJR6&Page=00464#AM1",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

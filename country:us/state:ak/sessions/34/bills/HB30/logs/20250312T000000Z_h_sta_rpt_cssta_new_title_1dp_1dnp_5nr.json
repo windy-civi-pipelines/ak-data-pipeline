@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) STA RPT CS(STA) NEW TITLE 1DP 1DNP 5NR",
+    "date": "2025-03-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB30"
+}

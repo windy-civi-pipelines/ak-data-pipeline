@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED Y19 N1 #1037",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-28",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "fa3aa3da-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB57",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 19
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=HB57&Page=01037#1037",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

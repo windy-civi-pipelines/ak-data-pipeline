@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y38 E2 #527",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "1ceb8804-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB121",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 38
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB121&Page=00527#0527",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

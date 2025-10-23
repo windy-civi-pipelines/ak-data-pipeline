@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) MOTION TO TABLE BILL FAILED Y11 N29",
+    "date": "2025-05-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB113"
+}

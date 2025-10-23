@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 8 FAILED Y14 N25 E1 #\r\n                                                    1230",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-16",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "1ebaa2aa-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB125",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 25
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB125&Page=01230#AM8",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

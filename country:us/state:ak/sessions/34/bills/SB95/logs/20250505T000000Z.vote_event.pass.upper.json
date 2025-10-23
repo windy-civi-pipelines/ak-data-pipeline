@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED Y16 N3 E1 #1127",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-05",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "90815154-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB95",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 16
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB95&Page=01127#1127",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

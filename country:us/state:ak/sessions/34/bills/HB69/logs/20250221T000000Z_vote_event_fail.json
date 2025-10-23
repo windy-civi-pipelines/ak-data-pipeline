@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) WITHDRAW FROM RLS TO CAL, RULE 18, FAILED Y18 N20 E2 #228",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-21",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "01a942e8-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB69",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 20
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB69&Page=00228#0228",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

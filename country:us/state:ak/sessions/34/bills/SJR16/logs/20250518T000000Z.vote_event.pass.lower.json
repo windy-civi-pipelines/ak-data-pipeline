@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y34 N6 #1301",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "c8cd04a4-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SJR16",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 34
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SJR16&Page=01301#1301",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

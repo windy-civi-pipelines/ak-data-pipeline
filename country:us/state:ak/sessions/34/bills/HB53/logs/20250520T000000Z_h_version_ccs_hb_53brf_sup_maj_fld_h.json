@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) VERSION: CCS HB 53(BRF SUP MAJ FLD H)",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB53"
+}

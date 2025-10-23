@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED Y19 N- E1 #1426",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-08-02",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "c0197482-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SCR101",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 19
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SCR101&Page=01426#1426",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

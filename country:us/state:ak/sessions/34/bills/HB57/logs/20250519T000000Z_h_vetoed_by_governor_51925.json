@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) VETOED BY GOVERNOR 5/19/25",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB57"
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y30 N9 E1 #1247",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-16",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "bf24e23c-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SCR7",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 30
+    },
+    {
+      "option": "no",
+      "value": 9
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SCR7&Page=01247#1247",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

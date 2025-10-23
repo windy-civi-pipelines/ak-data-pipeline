@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) Heard & Held -- Recessed to 8:00 am on 5/16 --",
+    "date": "2025-05-15",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB64"
+}

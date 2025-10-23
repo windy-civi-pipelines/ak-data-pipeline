@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) L&C RPT 4DP 1NR",
+    "date": "2025-05-07",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB134"
+}

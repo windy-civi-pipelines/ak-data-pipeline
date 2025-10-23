@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y22 N17 E1 #1262",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "1ebaa2aa-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB125",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 17
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB125&Page=01262#1262",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

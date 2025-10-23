@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) VETOED BY GOVERNOR 9/22/2025",
+    "date": "2025-10-15",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB54"
+}

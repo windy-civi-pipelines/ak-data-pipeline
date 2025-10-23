@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) AM NO 3 AS AMD FAILED Y11 N25 E3 A1",
+    "date": "2025-03-31",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB15"
+}

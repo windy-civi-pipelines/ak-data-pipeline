@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) JOINT SESSION at 10:30 AM HOUSE CHAMBER",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSCR1"
+}

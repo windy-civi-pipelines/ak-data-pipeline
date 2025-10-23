@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) EDUCATION at 03:30 PM BELTZ 105 (TSBldg)",
+    "date": "2025-03-26",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB69"
+}

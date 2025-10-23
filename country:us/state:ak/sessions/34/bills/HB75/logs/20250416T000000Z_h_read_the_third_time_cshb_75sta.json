@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) READ THE THIRD TIME CSHB 75(STA)",
+    "date": "2025-04-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB75"
+}

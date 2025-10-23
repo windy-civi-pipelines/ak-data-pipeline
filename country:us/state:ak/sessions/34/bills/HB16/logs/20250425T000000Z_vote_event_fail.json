@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) AM NO 5 FAILED Y18 N21 E1 #\r\n                                                    894",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-25",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "e24910c2-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB16",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 21
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB16&Page=00894#AM5",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

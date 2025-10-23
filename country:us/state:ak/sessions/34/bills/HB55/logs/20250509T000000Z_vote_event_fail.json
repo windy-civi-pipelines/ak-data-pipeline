@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) FAILED CONCUR (S) AM Y13 N25 E2 #1081",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-09",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "f85f83a0-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB55",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 25
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB55&Page=01081#1081",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

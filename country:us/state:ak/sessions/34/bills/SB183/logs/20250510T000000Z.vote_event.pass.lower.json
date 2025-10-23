@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y31 N7 E2 #1127",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "b753ff2a-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB183",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 31
+    },
+    {
+      "option": "no",
+      "value": 7
+    },
+    {
+      "option": "other",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SB183&Page=01127#1127",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(S) READ THE THIRD TIME CSHJR 11(RES) AM S",
+    "date": "2025-05-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJR11"
+}

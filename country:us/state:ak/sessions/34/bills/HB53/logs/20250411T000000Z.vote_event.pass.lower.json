@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) DEADLINE FOR ALL AMS AT 5:00 P.M. MONDAY 4/14 Y21 N16 E3 #668",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "f6b7867e-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB53",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 21
+    },
+    {
+      "option": "no",
+      "value": 16
+    },
+    {
+      "option": "other",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB53&Page=00668#0668",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

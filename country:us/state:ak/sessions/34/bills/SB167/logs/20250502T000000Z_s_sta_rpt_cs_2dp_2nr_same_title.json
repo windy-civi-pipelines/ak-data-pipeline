@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) STA RPT CS 2DP 2NR SAME TITLE",
+    "date": "2025-05-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB167"
+}

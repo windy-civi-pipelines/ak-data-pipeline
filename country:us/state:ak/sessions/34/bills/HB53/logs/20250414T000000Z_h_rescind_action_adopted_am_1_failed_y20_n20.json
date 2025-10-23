@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) RESCIND ACTION (ADOPTED) AM 1 FAILED Y20 N20",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB53"
+}

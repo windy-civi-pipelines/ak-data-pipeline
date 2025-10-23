@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) RES HCS ADOPTED Y22 N17 E1 #1268",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "caa92334-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SJR19",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 17
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=SJR19&Page=01268#1268",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

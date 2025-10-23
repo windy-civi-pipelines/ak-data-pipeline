@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) GOVERNOR VETO OVERRIDDEN Y46 N14 #1334",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-05-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "fa3aa3da-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB57",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 46
+    },
+    {
+      "option": "no",
+      "value": 14
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB57&Page=01334#1334",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED Y19 N- E1 #344",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-02-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "7e0c738c-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB60",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 19
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB60&Page=00344#0344",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

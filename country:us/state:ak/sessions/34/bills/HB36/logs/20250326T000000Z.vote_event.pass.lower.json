@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(H) PASSED Y39 E1 #548",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-03-26",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "34",
+  "bill": "ee59c244-b036-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "HB36",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 39
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=H&Bill=HB36&Page=00548#0548",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

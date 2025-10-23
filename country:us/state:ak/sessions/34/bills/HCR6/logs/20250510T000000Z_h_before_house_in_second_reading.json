@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) BEFORE HOUSE IN SECOND READING",
+    "date": "2025-05-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR6"
+}

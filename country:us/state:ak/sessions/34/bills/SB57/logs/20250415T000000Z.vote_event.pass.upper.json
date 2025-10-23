@@ -1,0 +1,36 @@
+{
+  "identifier": "",
+  "motion_text": "(S) PASSED ON RECONSIDERATION Y20 N- #880",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-04-15",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "34",
+  "bill": "7c412fac-b037-11f0-9986-42809aea841e",
+  "bill_action": null,
+  "bill_identifier": "SB57",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 20
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.akleg.gov/basis/Journal/Pages/34?Chamber=S&Bill=SB57&Page=00880#0880",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(S) FN1: (DNR)",
+    "date": "2025-02-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB30"
+}

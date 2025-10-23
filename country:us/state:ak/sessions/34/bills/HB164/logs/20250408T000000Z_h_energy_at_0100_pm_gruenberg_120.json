@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "(H) ENERGY at 01:00 PM GRUENBERG 120",
+    "date": "2025-04-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB164"
+}

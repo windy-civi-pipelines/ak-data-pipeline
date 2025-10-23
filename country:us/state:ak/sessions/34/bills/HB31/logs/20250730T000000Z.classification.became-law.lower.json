@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "(H) EFFECTIVE DATE(S) OF LAW 10/22/25",
+    "date": "2025-07-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB31"
+}
