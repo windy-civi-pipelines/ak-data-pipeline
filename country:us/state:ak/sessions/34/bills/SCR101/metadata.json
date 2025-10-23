@@ -231,6 +231,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-23T17:44:30Z"
+    "logs_latest_update": "2025-10-23T17:44:30Z",
+    "text_extraction_latest_update": "2025-10-23T18:11:07.596474Z"
   }
 }
